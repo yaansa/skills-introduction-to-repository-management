@@ -1,0 +1,19 @@
+# Python files
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# System files
+.DS_Store
+Thumbs.db
